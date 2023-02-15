@@ -1,4 +1,3 @@
 # Esame-ICON
 
-Alessandro Congedo
-Andrea Romano
+Alessandro Congedo/Andrea Romano
